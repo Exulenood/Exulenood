@@ -8,8 +8,10 @@ Developer with extensive working experience in metal constructiion and mechanica
 
 ### Tech Stack / Skills / Tools
 
-Java Script 🪶 Type Script  🪶 CSS3  🪶 HTML5  🪶 REST API  🪶 PostgeSQL  🪶 Node.js  🪶 React  🪶 React Native   🪶 Next.js 13  🪶 Expo/Expo Router
+Java Script 🪶 Type Script  🪶 CSS3  🪶 HTML5  🪶 REST API  🪶 PostgeSQL  🪶 Node.js  🪶 React  🪶 React Native  
+🪶 Next.js 13  🪶 Expo/Expo Router
 
 Git, Github 🔨 Visual Studio Code 🔨 Eclipse  🔨 Postman 🔨 Obsidian 🔨 DrawSQL 🔨 Android Studio 🔨 Hyper
 
-![TechStackComp](https://user-images.githubusercontent.com/119940832/233342093-67729aec-5a5c-47ac-b3cf-230a59c392e8.png)
+![TechStackComp](https://user-images.githubusercontent.com/119940832/233343295-08cace8f-520a-4612-b813-4aed59c05ea5.png)
+
