@@ -1,6 +1,6 @@
 ## Hello there! I´m Peter 👋
 
-Developer with extensive working experience in metal constructiion and mechanical engineering.
+Developer with extensive working experience in metal construction and mechanical engineering.
 
 🛠 Currently I´m developing with JavaScript / React / Next.js 13.  
 🔭 I´m am also working on expanding my skills into both functional and object-oriented programming.  
