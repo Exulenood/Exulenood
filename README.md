@@ -7,28 +7,9 @@ Developer with extensive working experience in metal constructiion and mechanica
 🤩 At the moment, I am particularly interested in AI in conjunction with database management.
 
 ### Tech Stack / Skills / Tools
-![TechStackComp](https://user-images.githubusercontent.com/119940832/233338133-03efd228-38ec-4830-9c92-b26cb5c6392b.png)
 
-Java Script
-Type Script
-CSS3
-HTML5
-REST API
-PostgeSQL
-Node.js
-React
-React Native
-Next.js 13
-Expo / 
-Expo Router
+Java Script 🪶 Type Script  🪶 CSS3  🪶 HTML5  🪶 REST API  🪶 PostgeSQL  🪶 Node.js  🪶 React  🪶 React Native  🪶 Next.js 13  🪶 Expo/Expo Router
 
-#### Tools:
-Git, Github
-Visual Studio Code
-Eclipse
-Postman
-Obsidian
-DrawSQL
-Deployment (fly.io, Netlifly)
-Android Studio
-Hyper
+Git, Github 🔨 Visual Studio Code 🔨 Eclipse  🔨 Postman 🔨 Obsidian 🔨 DrawSQL 🔨 Android Studio 🔨 Hyper
+
+![TechStackComp](https://user-images.githubusercontent.com/119940832/233340277-ccdd0a8b-2c53-441d-89a1-0735ce6021c7.png)
