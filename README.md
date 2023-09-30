@@ -3,8 +3,6 @@
 Developer with extensive working experience in metal construction and mechanical engineering.
 
 🛠 Currently I´m developing with JavaScript / React / Next.js 13.  
-🔭 I´m am also working on expanding my skills into both functional and object-oriented programming.  
-🤩 At the moment, I´m particularly interested in AI in conjunction with database management.  
 
 ### Tech Stack / Skills / Tools
 
