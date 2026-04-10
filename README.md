@@ -2,7 +2,7 @@
 
 Developer with extensive working experience in metal construction and mechanical engineering.
 
-🛠 Currently I´m developing with React Native / NextJS / NestJS.  
+🛠 Currently I´m building with React Native / NextJS / NestJS.  
 
 ### Tech Stack / Skills / Tools
 
